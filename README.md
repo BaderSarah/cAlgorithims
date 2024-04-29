@@ -1,1 +1,1 @@
-# cAlgorithims
+# cAlgorithms
